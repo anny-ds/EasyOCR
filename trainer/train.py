@@ -1,7 +1,9 @@
 import os
 import sys
 import time
+import yaml
 import random
+
 import torch
 import torch.backends.cudnn as cudnn
 import torch.nn as nn
@@ -10,6 +12,11 @@ import torch.optim as optim
 import torch.utils.data
 from torch.cuda.amp import autocast, GradScaler
 import numpy as np
+import argparse
+
+# from train import train
+from utils import AttrDict
+import pandas as pd
 
 from utils import CTCLabelConverter, AttnLabelConverter, Averager
 from dataset import hierarchical_dataset, AlignCollate, Batch_Balanced_Dataset
@@ -61,6 +68,7 @@ def train(opt, show_number = 2, amp=False):
 
     if opt.rgb:
         opt.input_channel = 3
+        
     model = Model(opt)
     print('model input parameters', opt.imgH, opt.imgW, opt.num_fiducial, opt.input_channel, opt.output_channel,
           opt.hidden_size, opt.num_class, opt.batch_max_length, opt.Transformation, opt.FeatureExtraction,
@@ -271,6 +279,7 @@ def train(opt, show_number = 2, amp=False):
                 log.write(predicted_result_log + '\n')
                 print('validation time: ', time.time()-t1)
                 t1=time.time()
+                
         # save model per 1e+4 iter.
         if (i + 1) % 1e+4 == 0:
             torch.save(
@@ -280,3 +289,27 @@ def train(opt, show_number = 2, amp=False):
             print('end the training')
             sys.exit()
         i += 1
+
+if __name__ == '__main__':
+    
+    parser = argparse.ArgumentParser(description="Distributed EasyOCR Training")
+    parser.add_argument("--config_dir", default = "/workspace/EasyOCR/trainer/config_files/kr_config.yaml", type=str, help="py config file")
+    opt_tmp = parser.parse_args()
+    
+    with open(opt_tmp.config_dir, 'r', encoding="utf8") as stream:
+        opt = yaml.safe_load(stream)
+    opt = AttrDict(opt)
+    if opt.lang_char == 'None':
+        characters = ''
+        for data in opt['select_data'].split('-'):
+            csv_path = os.path.join(opt['train_data'], data, 'labels.csv')
+            df = pd.read_csv(csv_path, sep='^([^,]+),', engine='python', usecols=['filename', 'words'], keep_default_na=False)
+            all_char = ''.join(df['words'])
+            characters += ''.join(set(all_char))
+        characters = sorted(set(characters))
+        opt.character= ''.join(characters)
+    else:
+        opt.character = opt.number + opt.symbol + opt.lang_char
+    os.makedirs(f'./output/{opt.experiment_name}', exist_ok=True) 
+    
+    train(opt, amp = False)

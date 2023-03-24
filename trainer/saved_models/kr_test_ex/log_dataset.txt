@@ -1,0 +1,280 @@
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 23
+num total samples of train_data: 23 x 1.0 (total_data_usage_ratio) = 23
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 23
+num total samples of train_data: 23 x 1.0 (total_data_usage_ratio) = 23
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 4 x 1.0 (batch_ratio) = 4
+--------------------------------------------------------------------------------
+Total_batch_size: 4 = 4
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 1 x 1.0 (batch_ratio) = 1
+--------------------------------------------------------------------------------
+Total_batch_size: 1 = 1
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 2 x 1.0 (batch_ratio) = 2
+--------------------------------------------------------------------------------
+Total_batch_size: 2 = 2
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 4 x 1.0 (batch_ratio) = 4
+--------------------------------------------------------------------------------
+Total_batch_size: 4 = 4
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 4 x 1.0 (batch_ratio) = 4
+--------------------------------------------------------------------------------
+Total_batch_size: 4 = 4
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 4 x 1.0 (batch_ratio) = 4
+--------------------------------------------------------------------------------
+Total_batch_size: 4 = 4
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 4 x 1.0 (batch_ratio) = 4
+--------------------------------------------------------------------------------
+Total_batch_size: 4 = 4
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['train_data']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: train_data
+sub-directory:	/train_data	 num samples: 21
+num total samples of train_data: 21 x 1.0 (total_data_usage_ratio) = 21
+num samples of train_data per batch: 4 x 1.0 (batch_ratio) = 4
+--------------------------------------------------------------------------------
+Total_batch_size: 4 = 4
+--------------------------------------------------------------------------------
+dataset_root:    all_data/val_data	 dataset: /
+sub-directory:	/.	 num samples: 3
+--------------------------------------------------------------------------------

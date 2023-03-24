@@ -1,0 +1,2670 @@
+[5/10] Train loss: 9.03596, Valid loss: 20.37783, Elapsed_time: 8.82561
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8018	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.2494	False
+--------------------------------------------------------------------------------
+[10/10] Train loss: 2.30337, Valid loss: 19.39391, Elapsed_time: 13.86689
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4759	False
+kein                      | Aaej                      | 0.9048	False
+--------------------------------------------------------------------------------
+[5/50] Train loss: 7.39774, Valid loss: 20.19201, Elapsed_time: 8.84567
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.1440	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.8072	False
+--------------------------------------------------------------------------------
+[10/50] Train loss: 1.10382, Valid loss: 19.75114, Elapsed_time: 13.87150
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.0212	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.1489	False
+--------------------------------------------------------------------------------
+[15/50] Train loss: 3.51449, Valid loss: 20.29715, Elapsed_time: 18.80415
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.1708	False
+kein                      | Aaej                      | 0.5712	False
+--------------------------------------------------------------------------------
+[20/50] Train loss: 1.05319, Valid loss: 20.35358, Elapsed_time: 23.74400
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8231	False
+Winterdienst!             | MejpanZeajoph             | 0.2339	False
+--------------------------------------------------------------------------------
+[25/50] Train loss: 0.60980, Valid loss: 20.41191, Elapsed_time: 28.68846
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.6603	False
+Winterdienst!             | MejpanZeajoph             | 0.1782	False
+--------------------------------------------------------------------------------
+[30/50] Train loss: 0.84642, Valid loss: 19.59059, Elapsed_time: 33.70240
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.1836	False
+Winterdienst!             | MejpanZeajoph             | 0.0758	False
+--------------------------------------------------------------------------------
+[35/50] Train loss: 1.14284, Valid loss: 19.99766, Elapsed_time: 38.64647
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.1909	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4662	False
+--------------------------------------------------------------------------------
+[40/50] Train loss: 0.41665, Valid loss: 20.00317, Elapsed_time: 43.66108
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.5083	False
+kein                      | Aaej                      | 0.6225	False
+--------------------------------------------------------------------------------
+[45/50] Train loss: 0.22431, Valid loss: 20.23020, Elapsed_time: 48.74075
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.1734	False
+kein                      | Aaej                      | 0.7456	False
+--------------------------------------------------------------------------------
+[50/50] Train loss: 0.06238, Valid loss: 20.17138, Elapsed_time: 53.72157
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4956	False
+kein                      | Aaej                      | 0.7749	False
+--------------------------------------------------------------------------------
+[5/1000] Train loss: 7.96255, Valid loss: 19.87282, Elapsed_time: 8.77754
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.2686	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3827	False
+--------------------------------------------------------------------------------
+[10/1000] Train loss: 1.66788, Valid loss: 20.41469, Elapsed_time: 13.81716
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.7775	False
+Winterdienst!             | MejpanZeajop1             | 0.2342	False
+--------------------------------------------------------------------------------
+[15/1000] Train loss: 1.07644, Valid loss: 19.80472, Elapsed_time: 18.92269
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.1792	False
+kein                      | Aaej                      | 0.6705	False
+--------------------------------------------------------------------------------
+[20/1000] Train loss: 1.01420, Valid loss: 19.92813, Elapsed_time: 23.91547
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.1132	False
+kein                      | Aaej                      | 0.6522	False
+--------------------------------------------------------------------------------
+[25/1000] Train loss: 0.91882, Valid loss: 19.88645, Elapsed_time: 28.78911
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.2183	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3049	False
+--------------------------------------------------------------------------------
+[30/1000] Train loss: 0.71028, Valid loss: 19.75637, Elapsed_time: 33.80871
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9408	False
+Winterdienst!             | MejpanZeajop1             | 0.3539	False
+--------------------------------------------------------------------------------
+[35/1000] Train loss: 0.58789, Valid loss: 19.45742, Elapsed_time: 38.82483
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8456	False
+Winterdienst!             | MejpanZeajop1             | 0.1481	False
+--------------------------------------------------------------------------------
+[40/1000] Train loss: 0.64500, Valid loss: 19.72221, Elapsed_time: 43.79898
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.2766	False
+kein                      | Aaej                      | 0.9380	False
+--------------------------------------------------------------------------------
+[45/1000] Train loss: 0.46582, Valid loss: 20.24945, Elapsed_time: 48.78241
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.4619	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.5784	False
+--------------------------------------------------------------------------------
+[50/1000] Train loss: 0.35493, Valid loss: 20.17426, Elapsed_time: 53.87481
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8487	False
+Winterdienst!             | MejpanZeajoph             | 0.4697	False
+--------------------------------------------------------------------------------
+[55/1000] Train loss: 0.29034, Valid loss: 20.58804, Elapsed_time: 58.88811
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.7252	False
+kein                      | Aaej                      | 0.9022	False
+--------------------------------------------------------------------------------
+[60/1000] Train loss: 0.25833, Valid loss: 20.35456, Elapsed_time: 63.87187
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9168	False
+Winterdienst!             | MejpanZeajoph             | 0.5898	False
+--------------------------------------------------------------------------------
+[65/1000] Train loss: 0.15899, Valid loss: 20.24547, Elapsed_time: 68.90649
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.5557	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.8658	False
+--------------------------------------------------------------------------------
+[70/1000] Train loss: 0.17813, Valid loss: 20.18307, Elapsed_time: 73.89151
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8842	False
+Winterdienst!             | MejpanZeajoph             | 0.5705	False
+--------------------------------------------------------------------------------
+[75/1000] Train loss: 0.06595, Valid loss: 20.21811, Elapsed_time: 78.98918
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.8216	False
+Winterdienst!             | MejpanZeajoph             | 0.5895	False
+--------------------------------------------------------------------------------
+[80/1000] Train loss: 0.05459, Valid loss: 20.49156, Elapsed_time: 83.95389
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9053	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.8640	False
+--------------------------------------------------------------------------------
+[85/1000] Train loss: 0.05777, Valid loss: 20.45320, Elapsed_time: 88.89556
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6047	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.8774	False
+--------------------------------------------------------------------------------
+[90/1000] Train loss: 0.05229, Valid loss: 20.64537, Elapsed_time: 93.84770
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6268	False
+kein                      | Aaej                      | 0.8943	False
+--------------------------------------------------------------------------------
+[95/1000] Train loss: 0.04728, Valid loss: 20.57140, Elapsed_time: 98.77455
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9029	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.8772	False
+--------------------------------------------------------------------------------
+[100/1000] Train loss: 0.04618, Valid loss: 20.64849, Elapsed_time: 103.81034
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6449	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.8978	False
+--------------------------------------------------------------------------------
+[105/1000] Train loss: 0.04218, Valid loss: 20.81681, Elapsed_time: 108.77519
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9021	False
+kein                      | Aaej                      | 0.8864	False
+--------------------------------------------------------------------------------
+[110/1000] Train loss: 0.04586, Valid loss: 20.72322, Elapsed_time: 113.78897
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.8958	False
+Winterdienst!             | MejpanZeajoph             | 0.6673	False
+--------------------------------------------------------------------------------
+[115/1000] Train loss: 0.04295, Valid loss: 20.81947, Elapsed_time: 118.85458
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9063	False
+Winterdienst!             | MejpanZeajoph             | 0.6609	False
+--------------------------------------------------------------------------------
+[120/1000] Train loss: 0.04393, Valid loss: 20.75302, Elapsed_time: 123.83237
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6640	False
+kein                      | Aaej                      | 0.9035	False
+--------------------------------------------------------------------------------
+[125/1000] Train loss: 0.04133, Valid loss: 20.76042, Elapsed_time: 128.91045
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9071	False
+Winterdienst!             | MejpanZeajoph             | 0.6715	False
+--------------------------------------------------------------------------------
+[130/1000] Train loss: 0.03924, Valid loss: 20.81333, Elapsed_time: 133.90583
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9044	False
+Winterdienst!             | MejpanZeajoph             | 0.6761	False
+--------------------------------------------------------------------------------
+[135/1000] Train loss: 0.03806, Valid loss: 20.86407, Elapsed_time: 138.95856
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6788	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9155	False
+--------------------------------------------------------------------------------
+[140/1000] Train loss: 0.03900, Valid loss: 20.72146, Elapsed_time: 143.91570
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9129	False
+Winterdienst!             | MejpanZeajoph             | 0.6669	False
+--------------------------------------------------------------------------------
+[145/1000] Train loss: 0.03755, Valid loss: 20.78175, Elapsed_time: 148.91827
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9041	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9260	False
+--------------------------------------------------------------------------------
+[150/1000] Train loss: 0.03828, Valid loss: 20.78029, Elapsed_time: 153.84703
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8894	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9244	False
+--------------------------------------------------------------------------------
+[155/1000] Train loss: 0.03537, Valid loss: 20.86381, Elapsed_time: 158.88750
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8976	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9242	False
+--------------------------------------------------------------------------------
+[160/1000] Train loss: 0.03553, Valid loss: 20.86164, Elapsed_time: 163.97028
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8931	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9240	False
+--------------------------------------------------------------------------------
+[165/1000] Train loss: 0.03414, Valid loss: 21.03082, Elapsed_time: 168.98324
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6851	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9269	False
+--------------------------------------------------------------------------------
+[170/1000] Train loss: 0.03668, Valid loss: 20.97242, Elapsed_time: 173.98788
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9271	False
+kein                      | Aaej                      | 0.9006	False
+--------------------------------------------------------------------------------
+[175/1000] Train loss: 0.03650, Valid loss: 20.88432, Elapsed_time: 179.09402
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6757	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9306	False
+--------------------------------------------------------------------------------
+[180/1000] Train loss: 0.02860, Valid loss: 21.02472, Elapsed_time: 184.02423
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9292	False
+kein                      | Aaej                      | 0.9002	False
+--------------------------------------------------------------------------------
+[185/1000] Train loss: 0.03455, Valid loss: 20.97444, Elapsed_time: 189.05029
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9312	False
+kein                      | Aaej                      | 0.9047	False
+--------------------------------------------------------------------------------
+[190/1000] Train loss: 0.04065, Valid loss: 20.89044, Elapsed_time: 194.12860
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6771	False
+kein                      | Aaej                      | 0.9053	False
+--------------------------------------------------------------------------------
+[195/1000] Train loss: 0.03340, Valid loss: 20.87116, Elapsed_time: 199.13697
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6721	False
+kein                      | Aaej                      | 0.8942	False
+--------------------------------------------------------------------------------
+[200/1000] Train loss: 0.02878, Valid loss: 20.96249, Elapsed_time: 204.15712
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6779	False
+kein                      | Aaej                      | 0.9098	False
+--------------------------------------------------------------------------------
+[205/1000] Train loss: 0.03619, Valid loss: 20.89785, Elapsed_time: 209.08217
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9416	False
+Winterdienst!             | MejpanZeajoph             | 0.6521	False
+--------------------------------------------------------------------------------
+[210/1000] Train loss: 0.02968, Valid loss: 20.82314, Elapsed_time: 214.08453
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6928	False
+kein                      | Aaej                      | 0.9066	False
+--------------------------------------------------------------------------------
+[215/1000] Train loss: 0.03305, Valid loss: 20.92429, Elapsed_time: 219.06902
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6461	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9434	False
+--------------------------------------------------------------------------------
+[220/1000] Train loss: 0.03059, Valid loss: 21.01029, Elapsed_time: 224.04494
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6432	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9457	False
+--------------------------------------------------------------------------------
+[225/1000] Train loss: 0.03095, Valid loss: 20.91004, Elapsed_time: 228.98333
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9465	False
+kein                      | Aaej                      | 0.9118	False
+--------------------------------------------------------------------------------
+[230/1000] Train loss: 0.03165, Valid loss: 21.00178, Elapsed_time: 234.03145
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9481	False
+Winterdienst!             | MejpanZeajoph             | 0.6468	False
+--------------------------------------------------------------------------------
+[235/1000] Train loss: 0.03096, Valid loss: 20.94294, Elapsed_time: 239.05374
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6545	False
+kein                      | Aaej                      | 0.9076	False
+--------------------------------------------------------------------------------
+[240/1000] Train loss: 0.03022, Valid loss: 20.91282, Elapsed_time: 244.07163
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6697	False
+kein                      | Aaej                      | 0.8997	False
+--------------------------------------------------------------------------------
+[245/1000] Train loss: 0.03138, Valid loss: 20.92039, Elapsed_time: 248.99742
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9532	False
+kein                      | Aaej                      | 0.9065	False
+--------------------------------------------------------------------------------
+[250/1000] Train loss: 0.02921, Valid loss: 21.03725, Elapsed_time: 253.96043
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6498	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9520	False
+--------------------------------------------------------------------------------
+[255/1000] Train loss: 0.03139, Valid loss: 21.00332, Elapsed_time: 258.96904
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9517	False
+Winterdienst!             | MejpanZeajoph             | 0.6488	False
+--------------------------------------------------------------------------------
+[260/1000] Train loss: 0.02980, Valid loss: 20.94178, Elapsed_time: 264.00371
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6206	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9461	False
+--------------------------------------------------------------------------------
+[265/1000] Train loss: 0.03122, Valid loss: 20.86776, Elapsed_time: 268.96309
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6466	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9507	False
+--------------------------------------------------------------------------------
+[270/1000] Train loss: 0.02963, Valid loss: 20.89080, Elapsed_time: 273.92524
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9049	False
+Winterdienst!             | MejpanZeajoph             | 0.6653	False
+--------------------------------------------------------------------------------
+[275/1000] Train loss: 0.03073, Valid loss: 20.70786, Elapsed_time: 278.94119
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6607	False
+kein                      | Aaej                      | 0.8910	False
+--------------------------------------------------------------------------------
+[280/1000] Train loss: 0.02841, Valid loss: 20.76645, Elapsed_time: 283.88338
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9047	False
+Winterdienst!             | MejpanZeajoph             | 0.6586	False
+--------------------------------------------------------------------------------
+[285/1000] Train loss: 0.02898, Valid loss: 20.82043, Elapsed_time: 288.89151
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9566	False
+kein                      | Aaej                      | 0.9065	False
+--------------------------------------------------------------------------------
+[290/1000] Train loss: 0.02812, Valid loss: 20.86825, Elapsed_time: 293.84598
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9585	False
+Winterdienst!             | MejpanZeajoph             | 0.6631	False
+--------------------------------------------------------------------------------
+[295/1000] Train loss: 0.02880, Valid loss: 20.73526, Elapsed_time: 299.05446
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9566	False
+Winterdienst!             | MejpanZeajoph             | 0.6526	False
+--------------------------------------------------------------------------------
+[300/1000] Train loss: 0.02866, Valid loss: 20.80060, Elapsed_time: 304.05306
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9601	False
+Winterdienst!             | MejpanZeajoph             | 0.6571	False
+--------------------------------------------------------------------------------
+[305/1000] Train loss: 0.02963, Valid loss: 20.81685, Elapsed_time: 308.97132
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9577	False
+Winterdienst!             | MejpanZeajoph             | 0.6361	False
+--------------------------------------------------------------------------------
+[310/1000] Train loss: 0.02811, Valid loss: 20.92516, Elapsed_time: 314.04475
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9028	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9596	False
+--------------------------------------------------------------------------------
+[315/1000] Train loss: 0.02860, Valid loss: 20.79268, Elapsed_time: 319.05393
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6663	False
+kein                      | Aaej                      | 0.9044	False
+--------------------------------------------------------------------------------
+[320/1000] Train loss: 0.02833, Valid loss: 20.81255, Elapsed_time: 323.99193
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9608	False
+kein                      | Aaej                      | 0.9126	False
+--------------------------------------------------------------------------------
+[325/1000] Train loss: 0.02844, Valid loss: 20.59410, Elapsed_time: 328.90862
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9629	False
+kein                      | Aaej                      | 0.9121	False
+--------------------------------------------------------------------------------
+[330/1000] Train loss: 0.02821, Valid loss: 20.56740, Elapsed_time: 333.83512
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9567	False
+Winterdienst!             | MejpanZeajoph             | 0.7023	False
+--------------------------------------------------------------------------------
+[335/1000] Train loss: 0.02849, Valid loss: 20.62427, Elapsed_time: 338.72031
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8930	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9607	False
+--------------------------------------------------------------------------------
+[340/1000] Train loss: 0.02798, Valid loss: 20.78170, Elapsed_time: 343.75465
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9139	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9648	False
+--------------------------------------------------------------------------------
+[345/1000] Train loss: 0.02813, Valid loss: 20.69416, Elapsed_time: 348.79566
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9660	False
+kein                      | Aaej                      | 0.9226	False
+--------------------------------------------------------------------------------
+[350/1000] Train loss: 0.02786, Valid loss: 20.69888, Elapsed_time: 353.77240
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6737	False
+kein                      | Aaej                      | 0.9049	False
+--------------------------------------------------------------------------------
+[355/1000] Train loss: 0.02781, Valid loss: 20.53180, Elapsed_time: 358.88355
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9636	False
+kein                      | Aaej                      | 0.9073	False
+--------------------------------------------------------------------------------
+[360/1000] Train loss: 0.02798, Valid loss: 20.61681, Elapsed_time: 363.96781
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9093	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9670	False
+--------------------------------------------------------------------------------
+[365/1000] Train loss: 0.02776, Valid loss: 20.53315, Elapsed_time: 368.99250
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9636	False
+Winterdienst!             | MejpanZeajoph             | 0.6736	False
+--------------------------------------------------------------------------------
+[370/1000] Train loss: 0.02761, Valid loss: 20.57214, Elapsed_time: 374.02227
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9122	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9624	False
+--------------------------------------------------------------------------------
+[375/1000] Train loss: 0.02807, Valid loss: 20.48198, Elapsed_time: 379.01090
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6821	False
+kein                      | Aaej                      | 0.9296	False
+--------------------------------------------------------------------------------
+[380/1000] Train loss: 0.02734, Valid loss: 20.58980, Elapsed_time: 384.04268
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6562	False
+kein                      | Aaej                      | 0.9157	False
+--------------------------------------------------------------------------------
+[385/1000] Train loss: 0.02815, Valid loss: 20.43670, Elapsed_time: 388.98458
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9635	False
+kein                      | Aaej                      | 0.9205	False
+--------------------------------------------------------------------------------
+[390/1000] Train loss: 0.02766, Valid loss: 20.68920, Elapsed_time: 393.96239
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9656	False
+Winterdienst!             | MejpanZeajoph             | 0.6694	False
+--------------------------------------------------------------------------------
+[395/1000] Train loss: 0.02791, Valid loss: 20.80245, Elapsed_time: 398.88235
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6376	False
+kein                      | Aaej                      | 0.8906	False
+--------------------------------------------------------------------------------
+[400/1000] Train loss: 0.02685, Valid loss: 20.64731, Elapsed_time: 403.85745
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6518	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9603	False
+--------------------------------------------------------------------------------
+[405/1000] Train loss: 0.02731, Valid loss: 20.52090, Elapsed_time: 408.74362
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6485	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9554	False
+--------------------------------------------------------------------------------
+[410/1000] Train loss: 0.02687, Valid loss: 20.76521, Elapsed_time: 413.71193
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9519	False
+kein                      | Aaej                      | 0.8985	False
+--------------------------------------------------------------------------------
+[415/1000] Train loss: 0.02771, Valid loss: 20.83472, Elapsed_time: 418.78314
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9663	False
+Winterdienst!             | MejpanZeajoph             | 0.6244	False
+--------------------------------------------------------------------------------
+[420/1000] Train loss: 0.02713, Valid loss: 21.03148, Elapsed_time: 423.83751
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9673	False
+Winterdienst!             | MejpanZeajoph             | 0.5956	False
+--------------------------------------------------------------------------------
+[425/1000] Train loss: 0.02712, Valid loss: 20.93181, Elapsed_time: 428.85607
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9189	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9686	False
+--------------------------------------------------------------------------------
+[430/1000] Train loss: 0.02680, Valid loss: 20.86575, Elapsed_time: 433.89246
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6341	False
+kein                      | Aaej                      | 0.9091	False
+--------------------------------------------------------------------------------
+[435/1000] Train loss: 0.02726, Valid loss: 20.83677, Elapsed_time: 438.83264
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6376	False
+kein                      | Aaej                      | 0.9006	False
+--------------------------------------------------------------------------------
+[440/1000] Train loss: 0.02696, Valid loss: 20.83871, Elapsed_time: 443.89692
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9723	False
+Winterdienst!             | MejpanZeajoph             | 0.6410	False
+--------------------------------------------------------------------------------
+[445/1000] Train loss: 0.02705, Valid loss: 20.92394, Elapsed_time: 448.97313
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9706	False
+kein                      | Aaej                      | 0.9085	False
+--------------------------------------------------------------------------------
+[450/1000] Train loss: 0.02685, Valid loss: 20.82158, Elapsed_time: 453.93041
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6451	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9728	False
+--------------------------------------------------------------------------------
+[455/1000] Train loss: 0.02727, Valid loss: 20.75423, Elapsed_time: 458.96858
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9115	False
+Winterdienst!             | MejpanZeajoph             | 0.6259	False
+--------------------------------------------------------------------------------
+[460/1000] Train loss: 0.02690, Valid loss: 20.80707, Elapsed_time: 463.96522
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6333	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9740	False
+--------------------------------------------------------------------------------
+[465/1000] Train loss: 0.02701, Valid loss: 20.63399, Elapsed_time: 469.02224
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6408	False
+kein                      | Aaej                      | 0.9276	False
+--------------------------------------------------------------------------------
+[470/1000] Train loss: 0.02643, Valid loss: 20.64964, Elapsed_time: 474.05156
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9728	False
+kein                      | Aaej                      | 0.9240	False
+--------------------------------------------------------------------------------
+[475/1000] Train loss: 0.02685, Valid loss: 20.66511, Elapsed_time: 479.02123
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6314	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9728	False
+--------------------------------------------------------------------------------
+[480/1000] Train loss: 0.02652, Valid loss: 20.82043, Elapsed_time: 484.04617
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9717	False
+Winterdienst!             | MejpanZeajoph             | 0.6260	False
+--------------------------------------------------------------------------------
+[485/1000] Train loss: 0.02681, Valid loss: 20.85438, Elapsed_time: 489.00234
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9720	False
+kein                      | Aaej                      | 0.9288	False
+--------------------------------------------------------------------------------
+[490/1000] Train loss: 0.02618, Valid loss: 20.72069, Elapsed_time: 494.01216
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9691	False
+Winterdienst!             | MejpanZeajoph             | 0.6476	False
+--------------------------------------------------------------------------------
+[495/1000] Train loss: 0.02677, Valid loss: 20.51443, Elapsed_time: 498.98395
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9191	False
+Winterdienst!             | MejpanZeajoph             | 0.6562	False
+--------------------------------------------------------------------------------
+[500/1000] Train loss: 0.02646, Valid loss: 20.83030, Elapsed_time: 504.04229
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8942	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9735	False
+--------------------------------------------------------------------------------
+[505/1000] Train loss: 0.02656, Valid loss: 20.88013, Elapsed_time: 508.98716
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9745	False
+Winterdienst!             | MejpanZeajoph             | 0.6090	False
+--------------------------------------------------------------------------------
+[510/1000] Train loss: 0.02657, Valid loss: 20.76224, Elapsed_time: 514.01112
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9113	False
+Winterdienst!             | MejpanZeajoph             | 0.6218	False
+--------------------------------------------------------------------------------
+[515/1000] Train loss: 0.02651, Valid loss: 20.65941, Elapsed_time: 518.92776
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8981	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9732	False
+--------------------------------------------------------------------------------
+[520/1000] Train loss: 0.02619, Valid loss: 20.77411, Elapsed_time: 523.97756
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6488	False
+kein                      | Aaej                      | 0.9093	False
+--------------------------------------------------------------------------------
+[525/1000] Train loss: 0.02633, Valid loss: 20.54342, Elapsed_time: 528.96801
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9231	False
+Winterdienst!             | MejpanZeajoph             | 0.6496	False
+--------------------------------------------------------------------------------
+[530/1000] Train loss: 0.02629, Valid loss: 20.64756, Elapsed_time: 533.98848
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9760	False
+kein                      | Aaej                      | 0.9330	False
+--------------------------------------------------------------------------------
+[535/1000] Train loss: 0.02641, Valid loss: 20.77910, Elapsed_time: 538.97694
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9741	False
+kein                      | Aaej                      | 0.9141	False
+--------------------------------------------------------------------------------
+[540/1000] Train loss: 0.02646, Valid loss: 20.70418, Elapsed_time: 543.93647
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9725	False
+kein                      | Aaej                      | 0.9281	False
+--------------------------------------------------------------------------------
+[545/1000] Train loss: 0.02662, Valid loss: 20.74210, Elapsed_time: 548.98770
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9736	False
+kein                      | Aaej                      | 0.9094	False
+--------------------------------------------------------------------------------
+[550/1000] Train loss: 0.02587, Valid loss: 20.89478, Elapsed_time: 553.91437
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9150	False
+Winterdienst!             | MejpanZeajoph             | 0.6309	False
+--------------------------------------------------------------------------------
+[555/1000] Train loss: 0.02645, Valid loss: 20.60226, Elapsed_time: 558.87058
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9141	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9730	False
+--------------------------------------------------------------------------------
+[560/1000] Train loss: 0.02590, Valid loss: 20.66462, Elapsed_time: 563.89662
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6463	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9712	False
+--------------------------------------------------------------------------------
+[565/1000] Train loss: 0.02612, Valid loss: 20.73386, Elapsed_time: 568.93567
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9740	False
+Winterdienst!             | MejpanZeajoph             | 0.6194	False
+--------------------------------------------------------------------------------
+[570/1000] Train loss: 0.02599, Valid loss: 20.68067, Elapsed_time: 574.00916
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6442	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9747	False
+--------------------------------------------------------------------------------
+[575/1000] Train loss: 0.02628, Valid loss: 20.61777, Elapsed_time: 579.02564
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9710	False
+Winterdienst!             | MejpanZeajoph             | 0.6477	False
+--------------------------------------------------------------------------------
+[580/1000] Train loss: 0.02629, Valid loss: 20.71534, Elapsed_time: 584.04049
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8926	False
+Winterdienst!             | MejpanZeajoph             | 0.6481	False
+--------------------------------------------------------------------------------
+[585/1000] Train loss: 0.02591, Valid loss: 20.75902, Elapsed_time: 589.08340
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6472	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9770	False
+--------------------------------------------------------------------------------
+[590/1000] Train loss: 0.02577, Valid loss: 20.90071, Elapsed_time: 594.03141
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6517	False
+kein                      | Aaej                      | 0.8769	False
+--------------------------------------------------------------------------------
+[595/1000] Train loss: 0.02599, Valid loss: 20.90010, Elapsed_time: 599.08960
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8642	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9769	False
+--------------------------------------------------------------------------------
+[600/1000] Train loss: 0.02575, Valid loss: 20.83027, Elapsed_time: 604.09747
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9764	False
+Winterdienst!             | MejpanZeajoph             | 0.6439	False
+--------------------------------------------------------------------------------
+[605/1000] Train loss: 0.02619, Valid loss: 20.76919, Elapsed_time: 609.09520
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9073	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9767	False
+--------------------------------------------------------------------------------
+[610/1000] Train loss: 0.02584, Valid loss: 20.68680, Elapsed_time: 614.04742
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6451	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9777	False
+--------------------------------------------------------------------------------
+[615/1000] Train loss: 0.02597, Valid loss: 20.45862, Elapsed_time: 619.03590
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9780	False
+Winterdienst!             | MejpanZeajoph             | 0.6690	False
+--------------------------------------------------------------------------------
+[620/1000] Train loss: 0.02589, Valid loss: 20.53219, Elapsed_time: 624.09427
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6712	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9774	False
+--------------------------------------------------------------------------------
+[625/1000] Train loss: 0.02623, Valid loss: 20.70225, Elapsed_time: 629.08792
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9088	False
+Winterdienst!             | MejpanZeajoph             | 0.6518	False
+--------------------------------------------------------------------------------
+[630/1000] Train loss: 0.02598, Valid loss: 20.73294, Elapsed_time: 634.01585
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9771	False
+Winterdienst!             | MejpanZeajoph             | 0.6625	False
+--------------------------------------------------------------------------------
+[635/1000] Train loss: 0.02592, Valid loss: 20.59767, Elapsed_time: 639.10022
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9712	False
+kein                      | Aaej                      | 0.8886	False
+--------------------------------------------------------------------------------
+[640/1000] Train loss: 0.02564, Valid loss: 20.60774, Elapsed_time: 644.10639
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9651	False
+Winterdienst!             | MejpanZeajoph             | 0.6568	False
+--------------------------------------------------------------------------------
+[645/1000] Train loss: 0.02588, Valid loss: 20.65731, Elapsed_time: 649.10159
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9741	False
+Winterdienst!             | MejpanZeajoph             | 0.6470	False
+--------------------------------------------------------------------------------
+[650/1000] Train loss: 0.02568, Valid loss: 20.89944, Elapsed_time: 654.13890
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9069	False
+Winterdienst!             | MejpanZeajoph             | 0.6301	False
+--------------------------------------------------------------------------------
+[655/1000] Train loss: 0.02598, Valid loss: 20.86628, Elapsed_time: 659.12427
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6172	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9768	False
+--------------------------------------------------------------------------------
+[660/1000] Train loss: 0.02548, Valid loss: 20.65816, Elapsed_time: 664.04543
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9027	False
+Winterdienst!             | MejpanZeajoph             | 0.6699	False
+--------------------------------------------------------------------------------
+[665/1000] Train loss: 0.02645, Valid loss: 20.73539, Elapsed_time: 669.06778
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9062	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9771	False
+--------------------------------------------------------------------------------
+[670/1000] Train loss: 0.02565, Valid loss: 20.81180, Elapsed_time: 674.02535
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9787	False
+Winterdienst!             | MejpanZeajoph             | 0.6382	False
+--------------------------------------------------------------------------------
+[675/1000] Train loss: 0.02537, Valid loss: 20.73908, Elapsed_time: 678.94123
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9071	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9766	False
+--------------------------------------------------------------------------------
+[680/1000] Train loss: 0.02544, Valid loss: 20.73964, Elapsed_time: 684.08769
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9039	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9765	False
+--------------------------------------------------------------------------------
+[685/1000] Train loss: 0.02567, Valid loss: 20.69943, Elapsed_time: 689.19509
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9779	False
+kein                      | Aaej                      | 0.8918	False
+--------------------------------------------------------------------------------
+[690/1000] Train loss: 0.02542, Valid loss: 20.62564, Elapsed_time: 694.15806
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6853	False
+kein                      | Aaej                      | 0.9067	False
+--------------------------------------------------------------------------------
+[695/1000] Train loss: 0.02566, Valid loss: 20.66346, Elapsed_time: 699.16053
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6629	False
+kein                      | Aaej                      | 0.8949	False
+--------------------------------------------------------------------------------
+[700/1000] Train loss: 0.02548, Valid loss: 20.75247, Elapsed_time: 704.09514
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6588	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9785	False
+--------------------------------------------------------------------------------
+[705/1000] Train loss: 0.02563, Valid loss: 20.77764, Elapsed_time: 709.09883
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6516	False
+kein                      | Aaej                      | 0.8892	False
+--------------------------------------------------------------------------------
+[710/1000] Train loss: 0.02546, Valid loss: 20.90453, Elapsed_time: 714.05466
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9781	False
+kein                      | Aaej                      | 0.8919	False
+--------------------------------------------------------------------------------
+[715/1000] Train loss: 0.02560, Valid loss: 20.78563, Elapsed_time: 719.06687
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8951	False
+Winterdienst!             | MejpanZeajoph             | 0.6544	False
+--------------------------------------------------------------------------------
+[720/1000] Train loss: 0.02554, Valid loss: 20.64625, Elapsed_time: 724.13539
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9781	False
+Winterdienst!             | MejpanZeajoph             | 0.6680	False
+--------------------------------------------------------------------------------
+[725/1000] Train loss: 0.02564, Valid loss: 20.58737, Elapsed_time: 729.18104
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9162	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9794	False
+--------------------------------------------------------------------------------
+[730/1000] Train loss: 0.02539, Valid loss: 20.53940, Elapsed_time: 734.24167
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6683	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9790	False
+--------------------------------------------------------------------------------
+[735/1000] Train loss: 0.02579, Valid loss: 20.52210, Elapsed_time: 739.19607
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9780	False
+Winterdienst!             | MejpanZeajoph             | 0.6854	False
+--------------------------------------------------------------------------------
+[740/1000] Train loss: 0.02536, Valid loss: 20.56388, Elapsed_time: 744.18832
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9265	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9797	False
+--------------------------------------------------------------------------------
+[745/1000] Train loss: 0.02577, Valid loss: 20.44020, Elapsed_time: 749.27517
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9790	False
+kein                      | Aaej                      | 0.9216	False
+--------------------------------------------------------------------------------
+[750/1000] Train loss: 0.02529, Valid loss: 20.46147, Elapsed_time: 754.27673
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6870	False
+kein                      | Aaej                      | 0.9376	False
+--------------------------------------------------------------------------------
+[755/1000] Train loss: 0.02546, Valid loss: 20.46802, Elapsed_time: 759.31473
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9616	False
+Winterdienst!             | MejpanZeajoph             | 0.6458	False
+--------------------------------------------------------------------------------
+[760/1000] Train loss: 0.02531, Valid loss: 20.39047, Elapsed_time: 764.37842
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9289	False
+Winterdienst!             | MejpanZeajoph             | 0.6778	False
+--------------------------------------------------------------------------------
+[765/1000] Train loss: 0.02593, Valid loss: 20.46716, Elapsed_time: 769.39261
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9174	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9779	False
+--------------------------------------------------------------------------------
+[770/1000] Train loss: 0.02538, Valid loss: 20.58598, Elapsed_time: 774.52216
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9214	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9797	False
+--------------------------------------------------------------------------------
+[775/1000] Train loss: 0.02560, Valid loss: 20.51694, Elapsed_time: 779.55688
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9777	False
+Winterdienst!             | MejpanZeajoph             | 0.6496	False
+--------------------------------------------------------------------------------
+[780/1000] Train loss: 0.02517, Valid loss: 20.45706, Elapsed_time: 784.59075
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9749	False
+Winterdienst!             | MejpanZeajoph             | 0.6700	False
+--------------------------------------------------------------------------------
+[785/1000] Train loss: 0.02541, Valid loss: 20.55147, Elapsed_time: 789.67996
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6497	False
+kein                      | Aaej                      | 0.9222	False
+--------------------------------------------------------------------------------
+[790/1000] Train loss: 0.02532, Valid loss: 20.48421, Elapsed_time: 794.67528
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9232	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9694	False
+--------------------------------------------------------------------------------
+[795/1000] Train loss: 0.02537, Valid loss: 20.52282, Elapsed_time: 799.74162
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6658	False
+kein                      | Aaej                      | 0.9183	False
+--------------------------------------------------------------------------------
+[800/1000] Train loss: 0.02537, Valid loss: 20.50718, Elapsed_time: 804.76644
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9151	False
+Winterdienst!             | MejpanZeajoph             | 0.6778	False
+--------------------------------------------------------------------------------
+[805/1000] Train loss: 0.02551, Valid loss: 20.61360, Elapsed_time: 809.85242
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9789	False
+kein                      | Aaej                      | 0.9098	False
+--------------------------------------------------------------------------------
+[810/1000] Train loss: 0.02531, Valid loss: 20.68358, Elapsed_time: 814.81082
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6687	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9807	False
+--------------------------------------------------------------------------------
+[815/1000] Train loss: 0.02541, Valid loss: 20.55042, Elapsed_time: 819.85436
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6583	False
+kein                      | Aaej                      | 0.9246	False
+--------------------------------------------------------------------------------
+[820/1000] Train loss: 0.02526, Valid loss: 20.57061, Elapsed_time: 824.94947
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9813	False
+kein                      | Aaej                      | 0.9335	False
+--------------------------------------------------------------------------------
+[825/1000] Train loss: 0.02558, Valid loss: 20.64170, Elapsed_time: 829.95550
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9318	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9810	False
+--------------------------------------------------------------------------------
+[830/1000] Train loss: 0.02547, Valid loss: 20.58105, Elapsed_time: 835.01379
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9819	False
+Winterdienst!             | MejpanZeajoph             | 0.6482	False
+--------------------------------------------------------------------------------
+[835/1000] Train loss: 0.02536, Valid loss: 20.61185, Elapsed_time: 839.99932
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6381	False
+kein                      | Aaej                      | 0.9262	False
+--------------------------------------------------------------------------------
+[840/1000] Train loss: 0.02545, Valid loss: 20.42081, Elapsed_time: 845.00471
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6580	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9799	False
+--------------------------------------------------------------------------------
+[845/1000] Train loss: 0.02551, Valid loss: 20.37233, Elapsed_time: 849.93955
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9786	False
+Winterdienst!             | MejpanZeajoph             | 0.6664	False
+--------------------------------------------------------------------------------
+[850/1000] Train loss: 0.02539, Valid loss: 20.45446, Elapsed_time: 854.86654
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6949	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9799	False
+--------------------------------------------------------------------------------
+[855/1000] Train loss: 0.02533, Valid loss: 20.54210, Elapsed_time: 859.91515
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6769	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9808	False
+--------------------------------------------------------------------------------
+[860/1000] Train loss: 0.02528, Valid loss: 20.61625, Elapsed_time: 864.89945
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9328	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9814	False
+--------------------------------------------------------------------------------
+[865/1000] Train loss: 0.02529, Valid loss: 20.47652, Elapsed_time: 869.89247
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6599	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9802	False
+--------------------------------------------------------------------------------
+[870/1000] Train loss: 0.02521, Valid loss: 20.44182, Elapsed_time: 874.80049
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9794	False
+Winterdienst!             | MejpanZeajoph             | 0.6874	False
+--------------------------------------------------------------------------------
+[875/1000] Train loss: 0.02525, Valid loss: 20.55071, Elapsed_time: 879.74799
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6716	False
+kein                      | Aaej                      | 0.9150	False
+--------------------------------------------------------------------------------
+[880/1000] Train loss: 0.02519, Valid loss: 20.64439, Elapsed_time: 884.78958
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6780	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9807	False
+--------------------------------------------------------------------------------
+[885/1000] Train loss: 0.02537, Valid loss: 20.67674, Elapsed_time: 889.74581
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9126	False
+Winterdienst!             | MejpanZeajoph             | 0.6439	False
+--------------------------------------------------------------------------------
+[890/1000] Train loss: 0.02525, Valid loss: 20.70845, Elapsed_time: 894.72376
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9112	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9806	False
+--------------------------------------------------------------------------------
+[895/1000] Train loss: 0.02529, Valid loss: 20.60529, Elapsed_time: 899.67052
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9118	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9811	False
+--------------------------------------------------------------------------------
+[900/1000] Train loss: 0.02512, Valid loss: 20.53176, Elapsed_time: 904.81345
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9121	False
+Winterdienst!             | MejpanZeajoph             | 0.6689	False
+--------------------------------------------------------------------------------
+[905/1000] Train loss: 0.02516, Valid loss: 20.62241, Elapsed_time: 909.75709
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9815	False
+Winterdienst!             | MejpanZeajoph             | 0.6276	False
+--------------------------------------------------------------------------------
+[910/1000] Train loss: 0.02520, Valid loss: 20.61694, Elapsed_time: 914.77712
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9801	False
+kein                      | Aaej                      | 0.9079	False
+--------------------------------------------------------------------------------
+[915/1000] Train loss: 0.02556, Valid loss: 20.55902, Elapsed_time: 919.79048
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6580	False
+kein                      | Aaej                      | 0.9077	False
+--------------------------------------------------------------------------------
+[920/1000] Train loss: 0.02533, Valid loss: 20.40729, Elapsed_time: 924.79015
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9251	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9725	False
+--------------------------------------------------------------------------------
+[925/1000] Train loss: 0.02523, Valid loss: 20.65161, Elapsed_time: 929.87962
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9158	False
+Winterdienst!             | MejpanZeajoph             | 0.6398	False
+--------------------------------------------------------------------------------
+[930/1000] Train loss: 0.02507, Valid loss: 20.85316, Elapsed_time: 934.92225
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9093	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9799	False
+--------------------------------------------------------------------------------
+[935/1000] Train loss: 0.02516, Valid loss: 21.08107, Elapsed_time: 939.96495
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9775	False
+kein                      | Aaej                      | 0.8842	False
+--------------------------------------------------------------------------------
+[940/1000] Train loss: 0.02552, Valid loss: 20.78632, Elapsed_time: 945.01174
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9270	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9803	False
+--------------------------------------------------------------------------------
+[945/1000] Train loss: 0.02515, Valid loss: 20.58864, Elapsed_time: 950.04714
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.6605	False
+kein                      | Aaej                      | 0.9190	False
+--------------------------------------------------------------------------------
+[950/1000] Train loss: 0.02506, Valid loss: 20.60625, Elapsed_time: 955.03463
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9809	False
+Winterdienst!             | MejpanZeajoph             | 0.6722	False
+--------------------------------------------------------------------------------
+[955/1000] Train loss: 0.02532, Valid loss: 20.55715, Elapsed_time: 960.02766
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9802	False
+Winterdienst!             | MejpanZeajoph             | 0.6473	False
+--------------------------------------------------------------------------------
+[960/1000] Train loss: 0.02505, Valid loss: 21.09637, Elapsed_time: 965.07872
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9810	False
+Winterdienst!             | MejpanZeajoph             | 0.5013	False
+--------------------------------------------------------------------------------
+[965/1000] Train loss: 0.02549, Valid loss: 20.93703, Elapsed_time: 970.07857
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.5264	False
+kein                      | Aaej                      | 0.8880	False
+--------------------------------------------------------------------------------
+[970/1000] Train loss: 0.02509, Valid loss: 21.08434, Elapsed_time: 975.04258
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9811	False
+kein                      | Aaej                      | 0.8876	False
+--------------------------------------------------------------------------------
+[975/1000] Train loss: 0.02509, Valid loss: 20.98928, Elapsed_time: 980.07186
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.5592	False
+kein                      | Aaej                      | 0.8818	False
+--------------------------------------------------------------------------------
+[980/1000] Train loss: 0.02513, Valid loss: 20.94471, Elapsed_time: 984.97425
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8853	False
+Winterdienst!             | MejpanZeajoph             | 0.5961	False
+--------------------------------------------------------------------------------
+[985/1000] Train loss: 0.02516, Valid loss: 21.00926, Elapsed_time: 990.07308
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9798	False
+kein                      | Aaej                      | 0.8774	False
+--------------------------------------------------------------------------------
+[990/1000] Train loss: 0.02505, Valid loss: 21.06364, Elapsed_time: 995.10584
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.9794	False
+Winterdienst!             | MejpanZeajoph             | 0.5739	False
+--------------------------------------------------------------------------------
+[995/1000] Train loss: 0.02537, Valid loss: 21.15384, Elapsed_time: 1000.10448
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8481	False
+Winterdienst!             | MejpanZeajoph             | 0.5429	False
+--------------------------------------------------------------------------------
+[1000/1000] Train loss: 0.02519, Valid loss: 21.15117, Elapsed_time: 1005.04871
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8582	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.9789	False
+--------------------------------------------------------------------------------
+[5/10] Train loss: 8.38302, Valid loss: 20.65179, Elapsed_time: 8.87797
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.3548	False
+kein                      | Aaej                      | 0.3191	False
+--------------------------------------------------------------------------------
+[10/10] Train loss: 2.78142, Valid loss: 19.46900, Elapsed_time: 13.95895
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajoph             | 0.3581	False
+kein                      | Aaej                      | 0.9148	False
+--------------------------------------------------------------------------------
+[5/10] Train loss: 16.40358, Valid loss: 21.45284, Elapsed_time: 8.80665
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8074	False
+Winterdienst!             | MejpanZeajop1             | 0.3857	False
+--------------------------------------------------------------------------------
+[10/10] Train loss: 16.36409, Valid loss: 21.40697, Elapsed_time: 13.86847
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3933	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4919	False
+--------------------------------------------------------------------------------
+[5/100] Train loss: 15.09705, Valid loss: 21.43364, Elapsed_time: 4.86737
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4737	False
+Winterdienst!             | MejpanZeajop1             | 0.3874	False
+--------------------------------------------------------------------------------
+[10/100] Train loss: 16.42843, Valid loss: 21.60077, Elapsed_time: 6.65307
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8740	False
+Winterdienst!             | MejpanZeajop1             | 0.3877	False
+--------------------------------------------------------------------------------
+[15/100] Train loss: 17.08011, Valid loss: 21.69118, Elapsed_time: 8.42084
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8779	False
+Winterdienst!             | MejpanZeajop1             | 0.3979	False
+--------------------------------------------------------------------------------
+[20/100] Train loss: 17.81385, Valid loss: 21.57705, Elapsed_time: 10.23916
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4911	False
+Winterdienst!             | MejpanZeajop1             | 0.3945	False
+--------------------------------------------------------------------------------
+[25/100] Train loss: 19.30707, Valid loss: 21.57899, Elapsed_time: 12.04216
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8880	False
+Winterdienst!             | MejpanZeajop1             | 0.4010	False
+--------------------------------------------------------------------------------
+[30/100] Train loss: 12.25220, Valid loss: 21.59337, Elapsed_time: 13.82169
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4041	False
+kein                      | Aaej                      | 0.8966	False
+--------------------------------------------------------------------------------
+[35/100] Train loss: 16.46798, Valid loss: 21.55863, Elapsed_time: 14.82264
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4711	False
+kein                      | Aaej                      | 0.8964	False
+--------------------------------------------------------------------------------
+[40/100] Train loss: 16.47277, Valid loss: 21.58233, Elapsed_time: 16.60969
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9036	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4909	False
+--------------------------------------------------------------------------------
+[45/100] Train loss: 19.05885, Valid loss: 21.49046, Elapsed_time: 18.37437
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3993	False
+kein                      | Aaej                      | 0.9016	False
+--------------------------------------------------------------------------------
+[50/100] Train loss: 7.99691, Valid loss: 21.59161, Elapsed_time: 20.14750
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9171	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4212	False
+--------------------------------------------------------------------------------
+[55/100] Train loss: 19.04463, Valid loss: 21.21018, Elapsed_time: 21.93219
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4298	False
+kein                      | Aaej                      | 0.8793	False
+--------------------------------------------------------------------------------
+[60/100] Train loss: 15.47264, Valid loss: 21.65350, Elapsed_time: 23.67075
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3721	False
+kein                      | Aaej                      | 0.8958	False
+--------------------------------------------------------------------------------
+[65/100] Train loss: 16.03156, Valid loss: 22.08948, Elapsed_time: 24.67576
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.3397	False
+kein                      | Aaej                      | 0.8934	False
+--------------------------------------------------------------------------------
+[70/100] Train loss: 12.24194, Valid loss: 21.75700, Elapsed_time: 26.49220
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4049	False
+Winterdienst!             | MejpanZeajop1             | 0.3679	False
+--------------------------------------------------------------------------------
+[75/100] Train loss: 32.98466, Valid loss: 21.68188, Elapsed_time: 28.30162
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4858	False
+Winterdienst!             | MejpanZeajop1             | 0.3918	False
+--------------------------------------------------------------------------------
+[80/100] Train loss: 17.57321, Valid loss: 21.61723, Elapsed_time: 30.09330
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8924	False
+Winterdienst!             | MejpanZeajop1             | 0.4207	False
+--------------------------------------------------------------------------------
+[85/100] Train loss: 16.85769, Valid loss: 21.68638, Elapsed_time: 31.82213
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9037	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4910	False
+--------------------------------------------------------------------------------
+[90/100] Train loss: 11.34212, Valid loss: 21.28440, Elapsed_time: 33.61142
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.2996	False
+kein                      | Aaej                      | 0.8998	False
+--------------------------------------------------------------------------------
+[95/100] Train loss: 30.53648, Valid loss: 21.61251, Elapsed_time: 34.58777
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4053	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4015	False
+--------------------------------------------------------------------------------
+[100/100] Train loss: 12.56097, Valid loss: 21.97581, Elapsed_time: 36.34829
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3473	False
+kein                      | Aaej                      | 0.8845	False
+--------------------------------------------------------------------------------
+[5/100] Train loss: 11.92703, Valid loss: 21.47488, Elapsed_time: 2.58218
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+[5/100] Train loss: 18.16210, Valid loss: 21.84523, Elapsed_time: 4.88133
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+[5/100] Train loss: 16.76482, Valid loss: 21.39316, Elapsed_time: 4.90134
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3710	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4494	False
+--------------------------------------------------------------------------------
+[10/100] Train loss: 16.73285, Valid loss: 21.40233, Elapsed_time: 6.64598
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3885	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.2903	False
+--------------------------------------------------------------------------------
+[15/100] Train loss: 14.95497, Valid loss: 21.79333, Elapsed_time: 8.36641
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8790	False
+Winterdienst!             | MejpanZeajop1             | 0.3827	False
+--------------------------------------------------------------------------------
+[20/100] Train loss: 18.81639, Valid loss: 21.77692, Elapsed_time: 10.06881
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3808	False
+kein                      | Aaej                      | 0.8752	False
+--------------------------------------------------------------------------------
+[25/100] Train loss: 13.62742, Valid loss: 21.85266, Elapsed_time: 11.87810
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3195	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4643	False
+--------------------------------------------------------------------------------
+[30/100] Train loss: 17.13543, Valid loss: 21.37709, Elapsed_time: 13.64827
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4097	False
+kein                      | Aaej                      | 0.8808	False
+--------------------------------------------------------------------------------
+[35/100] Train loss: 16.02583, Valid loss: 21.56326, Elapsed_time: 14.71252
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3787	False
+kein                      | Aaej                      | 0.8946	False
+--------------------------------------------------------------------------------
+[40/100] Train loss: 16.85403, Valid loss: 21.42806, Elapsed_time: 16.55590
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8904	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4622	False
+--------------------------------------------------------------------------------
+[45/100] Train loss: 12.43033, Valid loss: 21.68855, Elapsed_time: 18.36632
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8907	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4658	False
+--------------------------------------------------------------------------------
+[50/100] Train loss: 16.01421, Valid loss: 21.32056, Elapsed_time: 20.15215
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8883	False
+Winterdienst!             | MejpanZeajop1             | 0.4015	False
+--------------------------------------------------------------------------------
+[55/100] Train loss: 18.97948, Valid loss: 21.45273, Elapsed_time: 21.90483
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3687	False
+kein                      | Aaej                      | 0.8923	False
+--------------------------------------------------------------------------------
+[60/100] Train loss: 11.26599, Valid loss: 21.71422, Elapsed_time: 23.67449
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.5127	False
+Winterdienst!             | MejpanZeajop1             | 0.3702	False
+--------------------------------------------------------------------------------
+[65/100] Train loss: 15.46042, Valid loss: 22.03653, Elapsed_time: 24.69039
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.2828	False
+kein                      | Aaej                      | 0.8916	False
+--------------------------------------------------------------------------------
+[70/100] Train loss: 16.55536, Valid loss: 21.82957, Elapsed_time: 26.52679
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9038	False
+Winterdienst!             | MejpanZeajop1             | 0.3315	False
+--------------------------------------------------------------------------------
+[75/100] Train loss: 13.50519, Valid loss: 21.88283, Elapsed_time: 28.27132
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3287	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3987	False
+--------------------------------------------------------------------------------
+[80/100] Train loss: 20.60789, Valid loss: 21.97699, Elapsed_time: 29.98444
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9051	False
+Winterdienst!             | MejpanZeajop1             | 0.3258	False
+--------------------------------------------------------------------------------
+[85/100] Train loss: 16.29090, Valid loss: 21.63144, Elapsed_time: 31.78653
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9030	False
+Winterdienst!             | MejpanZeajop1             | 0.3674	False
+--------------------------------------------------------------------------------
+[90/100] Train loss: 13.33479, Valid loss: 21.42350, Elapsed_time: 33.52065
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4052	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3383	False
+--------------------------------------------------------------------------------
+[95/100] Train loss: 19.02023, Valid loss: 21.19641, Elapsed_time: 34.55999
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4180	False
+kein                      | Aaej                      | 0.8766	False
+--------------------------------------------------------------------------------
+[100/100] Train loss: 16.42431, Valid loss: 21.42985, Elapsed_time: 36.29522
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.3377	False
+Winterdienst!             | MejpanZeajop1             | 0.3890	False
+--------------------------------------------------------------------------------
+[5/100] Train loss: 17.09854, Valid loss: 21.47089, Elapsed_time: 4.83860
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4634	False
+kein                      | Aaej                      | 0.8138	False
+--------------------------------------------------------------------------------
+[10/100] Train loss: 17.16421, Valid loss: 21.39739, Elapsed_time: 6.55841
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8246	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4503	False
+--------------------------------------------------------------------------------
+[15/100] Train loss: 15.78743, Valid loss: 21.37090, Elapsed_time: 8.29202
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.3152	False
+kein                      | Aaej                      | 0.8550	False
+--------------------------------------------------------------------------------
+[20/100] Train loss: 19.93454, Valid loss: 21.19893, Elapsed_time: 10.10992
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3973	False
+kein                      | Aaej                      | 0.8400	False
+--------------------------------------------------------------------------------
+[25/100] Train loss: 12.42029, Valid loss: 21.34067, Elapsed_time: 11.84559
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3919	False
+kein                      | Aaej                      | 0.8884	False
+--------------------------------------------------------------------------------
+[30/100] Train loss: 19.49144, Valid loss: 21.17084, Elapsed_time: 13.63438
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8643	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.2647	False
+--------------------------------------------------------------------------------
+[35/100] Train loss: 12.07150, Valid loss: 21.11806, Elapsed_time: 14.62781
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4364	False
+kein                      | Aaej                      | 0.8439	False
+--------------------------------------------------------------------------------
+[40/100] Train loss: 16.39780, Valid loss: 21.15960, Elapsed_time: 16.38907
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4350	False
+kein                      | Aaej                      | 0.8564	False
+--------------------------------------------------------------------------------
+[45/100] Train loss: 16.00248, Valid loss: 21.27096, Elapsed_time: 18.15712
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.3039	False
+Winterdienst!             | MejpanZeajop1             | 0.4233	False
+--------------------------------------------------------------------------------
+[50/100] Train loss: 18.16553, Valid loss: 21.21167, Elapsed_time: 19.94140
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4399	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3897	False
+--------------------------------------------------------------------------------
+[55/100] Train loss: 17.51867, Valid loss: 21.18191, Elapsed_time: 21.72176
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4572	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.2754	False
+--------------------------------------------------------------------------------
+[60/100] Train loss: 10.75073, Valid loss: 21.50068, Elapsed_time: 23.48145
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3980	False
+kein                      | Aaej                      | 0.9021	False
+--------------------------------------------------------------------------------
+[65/100] Train loss: 18.16256, Valid loss: 21.26903, Elapsed_time: 24.51765
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8848	False
+Winterdienst!             | MejpanZeajop1             | 0.4306	False
+--------------------------------------------------------------------------------
+[70/100] Train loss: 15.85812, Valid loss: 21.22943, Elapsed_time: 26.29238
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4040	False
+Winterdienst!             | MejpanZeajop1             | 0.4207	False
+--------------------------------------------------------------------------------
+[75/100] Train loss: 18.05018, Valid loss: 21.46407, Elapsed_time: 28.03122
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8919	False
+Winterdienst!             | MejpanZeajop1             | 0.3671	False
+--------------------------------------------------------------------------------
+[80/100] Train loss: 13.02745, Valid loss: 21.44550, Elapsed_time: 29.76259
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4181	False
+Winterdienst!             | MejpanZeajop1             | 0.4013	False
+--------------------------------------------------------------------------------
+[85/100] Train loss: 17.55315, Valid loss: 21.53322, Elapsed_time: 31.58269
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8890	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3815	False
+--------------------------------------------------------------------------------
+[90/100] Train loss: 15.32294, Valid loss: 21.40129, Elapsed_time: 33.35013
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8989	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3627	False
+--------------------------------------------------------------------------------
+[95/100] Train loss: 15.33144, Valid loss: 21.58362, Elapsed_time: 34.42612
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.9106	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4223	False
+--------------------------------------------------------------------------------
+[100/100] Train loss: 16.72132, Valid loss: 21.32049, Elapsed_time: 36.23921
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4080	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4070	False
+--------------------------------------------------------------------------------
+[5/100] Train loss: 16.81765, Valid loss: 21.44833, Elapsed_time: 4.90430
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.4564	False
+kein                      | Aaej                      | 0.8231	False
+--------------------------------------------------------------------------------
+[10/100] Train loss: 16.43831, Valid loss: 21.45496, Elapsed_time: 6.70514
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4082	False
+kein                      | Aaej                      | 0.8762	False
+--------------------------------------------------------------------------------
+[15/100] Train loss: 18.38592, Valid loss: 21.55447, Elapsed_time: 8.47362
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3874	False
+kein                      | Aaej                      | 0.8807	False
+--------------------------------------------------------------------------------
+[20/100] Train loss: 8.65609, Valid loss: 21.28589, Elapsed_time: 10.23500
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.2965	False
+kein                      | Aaej                      | 0.8783	False
+--------------------------------------------------------------------------------
+[25/100] Train loss: 18.92510, Valid loss: 21.67089, Elapsed_time: 12.03025
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3688	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4904	False
+--------------------------------------------------------------------------------
+[30/100] Train loss: 20.39821, Valid loss: 21.42648, Elapsed_time: 13.80549
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8827	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3970	False
+--------------------------------------------------------------------------------
+[35/100] Train loss: 17.47001, Valid loss: 21.25756, Elapsed_time: 14.79368
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4155	False
+kein                      | Aaej                      | 0.8727	False
+--------------------------------------------------------------------------------
+[40/100] Train loss: 12.49900, Valid loss: 21.30105, Elapsed_time: 16.57437
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.1922	False
+kein                      | Aaej                      | 0.8749	False
+--------------------------------------------------------------------------------
+[45/100] Train loss: 34.33886, Valid loss: 21.25094, Elapsed_time: 18.35841
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.4046	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.2778	False
+--------------------------------------------------------------------------------
+[50/100] Train loss: 11.37850, Valid loss: 21.49078, Elapsed_time: 20.14183
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8819	False
+Winterdienst!             | MejpanZeajop1             | 0.3785	False
+--------------------------------------------------------------------------------
+[55/100] Train loss: 16.47589, Valid loss: 21.17299, Elapsed_time: 21.94614
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.3122	False
+Winterdienst!             | MejpanZeajop1             | 0.4040	False
+--------------------------------------------------------------------------------
+[60/100] Train loss: 18.71127, Valid loss: 21.24875, Elapsed_time: 23.77836
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.2468	False
+kein                      | Aaej                      | 0.8768	False
+--------------------------------------------------------------------------------
+[65/100] Train loss: 16.39747, Valid loss: 21.30953, Elapsed_time: 24.84050
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRIVATWEG                 | FH~L\JM`|                 | 0.3527	False
+Winterdienst!             | MejpanZeajop1             | 0.4089	False
+--------------------------------------------------------------------------------
+[70/100] Train loss: 16.37102, Valid loss: 21.63900, Elapsed_time: 26.69014
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8899	False
+Winterdienst!             | MejpanZeajop1             | 0.3589	False
+--------------------------------------------------------------------------------
+[75/100] Train loss: 16.52924, Valid loss: 21.65017, Elapsed_time: 28.40813
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3770	False
+kein                      | Aaej                      | 0.9021	False
+--------------------------------------------------------------------------------
+[80/100] Train loss: 18.93293, Valid loss: 21.74938, Elapsed_time: 30.17117
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3558	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4388	False
+--------------------------------------------------------------------------------
+[85/100] Train loss: 9.42330, Valid loss: 21.81203, Elapsed_time: 31.95410
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8885	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4604	False
+--------------------------------------------------------------------------------
+[90/100] Train loss: 16.70093, Valid loss: 21.96535, Elapsed_time: 33.73781
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8791	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.4053	False
+--------------------------------------------------------------------------------
+[95/100] Train loss: 16.37768, Valid loss: 22.06125, Elapsed_time: 34.78719
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Winterdienst!             | MejpanZeajop1             | 0.3116	False
+kein                      | Aaej                      | 0.8700	False
+--------------------------------------------------------------------------------
+[100/100] Train loss: 16.12935, Valid loss: 21.99503, Elapsed_time: 36.53302
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kein                      | Aaej                      | 0.8875	False
+PRIVATWEG                 | FH~L\JM`|                 | 0.3980	False
+--------------------------------------------------------------------------------
